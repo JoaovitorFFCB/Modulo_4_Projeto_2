@@ -7,7 +7,7 @@ montar um dashboard com base no conjunto de dados
 escolhidos pelo squad.
 
 Instruções para importação e uso do banco de dados:
-1-	Baixe os arquivos do repositório git;
+1-	Baixe os arquivos do repositório git e descompacte todos os arquivos zipados;
 2-	Abra o Xampp e execute os seguintes códigos;
   a.	mysql -u root -e ‘create database db_projeto_4’
   b.	mysql -u root db_projeto_4 <local do arquivo/bdtabelasLOL.sql
